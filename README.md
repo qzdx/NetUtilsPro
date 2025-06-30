@@ -2,7 +2,9 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ![Platforms](https://img.shields.io/badge/Platform-Windows%20%7C%20macOS%20%7C%20Linux%20%7C%20Android%20%7C%20iOS-blue)
+## 开发日记
 
+- 关于网络的一些操蛋问题
 
 **NetUtilsPro** 是一个强大的跨平台网络传输工具集合，专为开发者和IT专业人员设计，解决不同系统间的数据传输难题。支持点对点传输、局域网发现、安全隧道等功能，让您的数据在任意平台间自由流动。
 
